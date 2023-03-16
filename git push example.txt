@@ -1,0 +1,27 @@
+root@master:~# gh repo clone amitopenwriteup/projectnode
+Cloning into 'projectnode'...
+remote: Enumerating objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 3
+Receiving objects: 100% (3/3), done.
+root@master:~# ls
+libgit2  myrepo  projectnode  snap  test  testbranch  tmp
+root@master:~# cd projectnode/
+root@master:~/projectnode# ls
+README.md
+root@master:~/projectnode# git remote
+origin
+root@master:~/projectnode# git remote add test https://github.com/amitopenwriteup/projectnode
+root@master:~/projectnode# git remote
+origin
+test
+root@master:~/projectnode# vim test.sh
+root@master:~/projectnode# git add test.sh
+root@master:~/projectnode# git commit -m "adding file"
+[master d469155] adding file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.sh
+root@master:~/projectnode# git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
