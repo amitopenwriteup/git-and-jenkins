@@ -1,0 +1,108 @@
+What is Jenkins?
+a) A continuous integration and continuous delivery (CI/CD) tool
+b) A database management system
+c) A web framework
+d) A programming language
+Answer: a
+
+Which of the following is NOT a benefit of using Jenkins?
+a) Improved collaboration between development and operations teams
+b) Increased speed and frequency of software releases
+c) Reduced risk of bugs and errors in software releases
+d) Decreased need for automated testing
+Answer: d
+
+Which of the following is NOT a core component of Jenkins?
+a) Jenkins Master
+b) Jenkins Agent
+c) Jenkins Server
+d) Jenkins Plugin
+Answer: c
+
+Which of the following is NOT a type of Jenkins build trigger?
+a) Timer
+b) Poll SCM
+c) Remote trigger
+d) Trigger by request
+Answer: c
+
+Which of the following is NOT a type of Jenkins plugin?
+a) Source code management plugins
+b) Build environment plugins
+c) Notification plugins
+d) Database management plugins
+Answer: d
+
+
+What is Git?
+a) A version control system
+b) A web server
+c) A programming language
+d) A database management system
+Answer: a
+
+What is the purpose of the "git add" command?
+a) To create a new branch
+b) To commit changes to the local repository
+c) To push changes to the remote repository
+d) To stage changes for commit
+Answer: d
+
+What is a "git branch"?
+a) A copy of the repository that is stored locally
+b) A reference to a commit in the repository's history
+c) A set of changes that have been committed to the repository
+d) A parallel version of the repository that can be worked on independently
+Answer: d
+
+What is a "git merge"?
+a) The process of incorporating changes from one branch into another
+b) The process of committing changes to the local repository
+c) The process of pushing changes to the remote repository
+d) The process of creating a new branch
+Answer: a
+
+What is a "git clone"?
+a) The process of copying a remote repository to a local machine
+b) The process of merging two branches together
+c) The process of pushing changes to a remote repository
+d) The process of creating a new branch
+Answer: a
+
+What is SonarQube?
+a) A code analysis and quality management tool
+b) A version control system
+c) A web server
+d) A database management system
+Answer: a
+
+Which of the following is NOT a feature of SonarQube?
+a) Code coverage analysis
+b) Code duplication detection
+c) Code repository management
+d) Code smell detection
+Answer: c
+
+Which of the following languages is NOT supported by SonarQube?
+a) Java
+b) JavaScript
+c) C++
+d) COBOL
+Answer: d
+
+What is the purpose of the SonarQube Quality Gate?
+a) To enforce quality standards for code in the development process
+b) To generate reports on code quality
+c) To analyze code coverage and duplication
+d) To manage the repository of code in the development process
+Answer: a
+
+Which of the following is a SonarQube plugin?
+a) Git
+b) Jenkins
+c) Eclipse
+d) Maven
+Answer: d
+
+
+
